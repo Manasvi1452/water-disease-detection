@@ -1,0 +1,6 @@
+[
+    {"id": 2, "pH": 8.5, "turbidity": 90, "microorganisms_count": 50, "rainfall": 180},
+    {"id": 3, "pH": 6.2, "turbidity": 80, "microorganisms_count": 40, "rainfall": 150},
+    {"id": 4, "pH": 7.1, "turbidity": 20, "microorganisms_count": 10, "rainfall": 30},
+    {"id": 5, "pH": 8.0, "turbidity": 95, "microorganisms_count": 60, "rainfall": 190}
+]
